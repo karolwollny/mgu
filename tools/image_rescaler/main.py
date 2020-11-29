@@ -4,7 +4,7 @@ import os
 import glob
 from PIL import Image
 
-SIZE = (32, 32)
+SIZE = (50, 50)
 PHOTOS_DIR = '../../data/'
 
 
